@@ -1,4 +1,4 @@
-
+Inherit (OOPS)
 To create a proper README file for your code on GitHub, you should clearly describe the purpose of the code, its functionality, and how users can run it. Here's an example of how you can structure the README for your code:
 
 Student Information and Marks System
